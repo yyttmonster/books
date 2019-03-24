@@ -28,6 +28,14 @@ a{
     width: 100%;
     text-align: center;
 }
+#feeling{
+    color: rgba(127,255,255,0.75);
+    position: absolute;
+    bottom: 50px;
+    width: 100%;
+    text-align: center;
+    height: 30px;
+}
 .element {
     width: 120px;
     height: 160px;
