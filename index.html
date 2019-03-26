@@ -84,9 +84,9 @@
             author.textContent = table[i][1];
             element.appendChild(author);
 
-            element.onclick= function () {
-                document.getElementById("feeling").textContent = table[i][0]+" - "+table[i][6];
-            };
+            element.addEventListener("click",function () {
+               document.getElementById("feeling").textContent = table[i][6];
+            });
 
             var object = new THREE.CSS3DObject(element);
             object.position.x = Math.random() * 4000 - 2000;
