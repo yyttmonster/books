@@ -16,6 +16,19 @@ a{
     width: 100%;
     text-align: center;
 }
+#info {
+    position: absolute;
+    right: 40px;
+    bottom: 5px;
+    color: #ffffff;
+    padding: 5px;
+    font-family: Monospace;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    z-index: 1;
+}
+
 #feeling{
     color: rgba(127,255,255,0.75);
     position: absolute;
