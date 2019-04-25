@@ -2,7 +2,7 @@
 ### introduction
 A book list recording all famous books I read in the past ten years. The first book was read in my elementary school. So many years have gone. This list contains masterpieces as well as off-beat novels. I attach some personal feelings in the end of each book to record my life footprint.
 
-The page is built with [three.js]([https://threejs.org](https://threejs.org/)) and clone the [css3d_periodictable](https://threejs.org/examples/#css3d_periodictable) example.
+The page is built with [three.js](https://threejs.org) and clone the [css3d_periodictable](https://threejs.org/examples/#css3d_periodictable) example.
 
 ### appendix
 ```
