@@ -5,12 +5,13 @@ A book list recording all famous books I read in the past ten years. The first b
 The page is built with [three.js]([https://threejs.org](https://threejs.org/)) and clone the [css3d_periodictable](https://threejs.org/examples/#css3d_periodictable) example.
 
 ### appendix
-<center>临江仙 </center></br>
+                        临江仙 </br>
 
-<center>杨慎[^1] </center></br>
+                          杨慎[^1] </br>
 
-<center>滚滚长江东逝水，浪花淘尽英雄。是非成败转头空，青山依旧在，几度夕阳红。</center></br>
+滚滚长江东逝水，浪花淘尽英雄。是非成败转头空，青山依旧在，几度夕阳红。</br>
 
-<center>白发渔樵江渚上，惯看秋月春风。一壶浊酒喜相逢，古今多少事，都付笑谈中。</center></br>
+白发渔樵江渚上，惯看秋月春风。一壶浊酒喜相逢，古今多少事，都付笑谈中。</br>
+
 
 [^1] 再次阅读《明朝那些事儿》，略有感触。历经四朝的首辅杨廷和之子杨慎，明代三大才子之一（解缙、杨慎、徐渭）。未经历过，不能谈感慨，没有资格说情怀。但些许感受依旧在。我还年轻，我也不再年轻。
