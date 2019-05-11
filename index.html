@@ -161,6 +161,10 @@
                document.getElementById("feeling").textContent = table[i][0]+" - "+table[i][4];
             },false);
 
+            element.addEventListener("touchend",function () {
+                document.getElementById("feeling").textContent = table[i][0]+" - "+table[i][4];
+            },false);
+
             let object = new THREE.CSS3DObject(element);
             object.position.x = Math.random() * 4000 - 2000;
             object.position.y = Math.random() * 4000 - 2000;
